@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manoj-2702
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px"> Hi, I’m @Manoj-2702
 - 👀 I’m interested in Computer Vision, Machine Learning, 
 - 🌱 I’m currently learning Semantic Web Technologies, Machine Learning, MERN Stack.
 - 💞️ I’m looking to collaborate on Computer Projects and Research.
@@ -60,6 +60,8 @@ You can click the Preview link to take a look at your changes.
 # GitHub Stats
 <p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-2702&theme=nord" alt="Manoj Kumar H S" /></p>
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manoj-2702&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-2702&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 ## Coding platforms
