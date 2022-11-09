@@ -83,6 +83,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manoj-2702" alt="Manoj-2702" /></a> </p>
 
+<p><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Manoj-2702&theme=nord"/></p>
 
 ## Coding platforms
 
