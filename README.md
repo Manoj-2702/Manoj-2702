@@ -62,13 +62,17 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manoj-2702&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
 
 
+## Coding platforms
+
+<a href = "https://www.hackerrank.com/hsmanojkumar2003?hr_r=1" ><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black"/> </a>
+<a href = "https://leetcode.com/Manoj_2702/" ><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
+
+
 # Social Links
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://www.linkedin.com/in/manoj-kumar-h-s-4306b2235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-kumar-h-s-4306b2235/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hsmanojkumar2003?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Manoj Kumar H S @hsmanojkumar2003" height="30" width="40" /></a>
-<a href="https://leetcode.com/Manoj_2702/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Manoj_2702/" height="30" width="40" /></a>
 </p>
 
 
