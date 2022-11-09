@@ -75,13 +75,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj-2702&count_private=true&theme=chartreuse-dark)
+<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manoj-2702&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-2702&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manoj-2702" alt="Manoj-2702" /></a> </p>
+<p><img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Manoj-2702&column=7&theme=nord&no-frame=true"/></p>
 
 <p><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Manoj-2702&theme=nord"/></p>
 
