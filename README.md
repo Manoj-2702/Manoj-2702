@@ -38,8 +38,14 @@ You can click the Preview link to take a look at your changes.
 <a href=""><img alt="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></a>
 <!-- <a href=""><img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" /></a> -->
-<a href=""><img alt="" src="https://img.shields.io/badge/Discord.py-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Discord.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<!-- <a href=""><img alt="" src="https://img.shields.io/badge/Discord.py-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> -->
+<!-- <a href=""><img alt="" src="https://img.shields.io/badge/Discord.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> -->
+<a href=""><img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
 
 
 ## 🔧 Tools
@@ -58,8 +64,16 @@ You can click the Preview link to take a look at your changes.
 
 
 # GitHub Stats
+<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manoj-2702&theme=github_dark" />
 <p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-2702&theme=nord" alt="Manoj Kumar H S" /></p>
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manoj-2702&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manoj-2702&theme=github_dark" />
+
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manoj-2702&theme=github_dark" />
+
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manoj-2702&theme=github_dark" />
+
+<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manoj-2702&theme=github_dark&utcOffset=8" />
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-2702&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
