@@ -74,8 +74,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://www.linkedin.com/in/manoj-kumar-h-s-4306b2235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-kumar-h-s-4306b2235/" height="30" width="40" /></a>
 </p>
+<a href = "https://twitter.com/ManojKumarHS9" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 
-
-![wakatime](https://wakatime.com/badge/user/8ebdcc36-508a-448f-97fb-5786959d8936.svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manoj-2702&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj-2702" /> </p>
 
