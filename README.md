@@ -12,6 +12,9 @@ Manoj-2702/Manoj-2702 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <br><br><br><br>
+# <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manoj-2702&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj-2702" /> </p>
+
+
 # Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
@@ -69,10 +72,16 @@ You can click the Preview link to take a look at your changes.
 # GitHub Stats
 <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manoj-2702&theme=github_dark" />
 <p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-2702&theme=nord" alt="Manoj Kumar H S" /></p>
-<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manoj-2702&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
 
+
+
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj-2702&count_private=true&theme=chartreuse-dark)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-2702&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manoj-2702" alt="Manoj-2702" /></a> </p>
 
 
 ## Coding platforms
