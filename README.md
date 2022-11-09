@@ -70,13 +70,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manoj-2702&theme=github_dark" />
 <p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-2702&theme=nord" alt="Manoj Kumar H S" /></p>
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manoj-2702&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manoj-2702&theme=github_dark" />
 
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manoj-2702&theme=github_dark" />
-
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manoj-2702&theme=github_dark" />
-
-<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manoj-2702&theme=github_dark&utcOffset=8" />
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-2702&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
