@@ -1,14 +1,17 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px"> Hi, I’m @Manoj-2702
-- 👀 I’m interested in Computer Vision, Machine Learning, 
-- 🌱 I’m currently learning Semantic Web Technologies, Machine Learning, MERN Stack.
-- 💞️ I’m looking to collaborate on Computer Projects and Research.
-- 📫 How to reach me hsmanojkumar2003@gmail.com 
+
+<img align = "left" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">  
+<br>
+<p align="left">💻 I’m interested in Computer Vision, Machine Learning </p>
+<p align="left">📚 I’m currently learning Semantic Web Technologies, Machine Learning, MERN Stack. </p>
+<p align="left"> 📈 I’m looking to collaborate on Computer Projects and Research. </p>
+<p align="left"> 📫 How to reach me hsmanojkumar2003@gmail.com </p>
 
 <!---
 Manoj-2702/Manoj-2702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<br><br><br><br>
 # Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
