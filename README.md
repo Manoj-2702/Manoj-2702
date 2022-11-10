@@ -78,7 +78,8 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manoj-2702&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-2702&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-2702&langs_count=6&layout=compact&theme=nord" /></p>
 
 
 
