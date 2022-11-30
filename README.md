@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px"> Hi, I’m @Manoj-2702
 
-<img align = "left" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">  
+<img align = "left" src="![image](https://user-images.githubusercontent.com/103581128/204849131-5b049870-99b5-4df4-bed9-3b7fa39f3051.png)">  
 <br>
 <p align="left">💻 I’m interested in Computer Vision, Machine Learning </p>
 <p align="left">📚 I’m currently learning Semantic Web Technologies, Machine Learning, MERN Stack. </p>
