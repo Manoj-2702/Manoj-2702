@@ -5,7 +5,7 @@
 <p align="left">💻 I’m interested in Computer Vision, Machine Learning </p>
 <p align="left">📚 I’m currently learning Semantic Web Technologies, Machine Learning, MERN Stack. </p>
 <p align="left"> 📈 I’m looking to collaborate on Computer Projects and Research. </p>
-<p align="left"> 📫 How to reach me hsmanojkumar2003@gmail.com </p>
+<p align="left"> 📫 How to reach me <a href="hsmanojkumar2003@gmail.com">hsmanojkumar2003@gmail.com </a></p>
 
 <!---
 Manoj-2702/Manoj-2702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
