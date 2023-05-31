@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manoj-2702&theme=github_dark" />
 <p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-2702&theme=nord" alt="Manoj Kumar H S" /></p>
 
-
+[![Manoj-2702's GitHub | Stats](https://stats.quine.sh/Manoj-2702/github?theme=light)](https://quine.sh)
 
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manoj-2702&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
 
