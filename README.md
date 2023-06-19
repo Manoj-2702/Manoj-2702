@@ -71,12 +71,11 @@ You can click the Preview link to take a look at your changes.
 
 
 # GitHub Stats
-<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manoj-2702&theme=github_dark" />
-<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-2702&theme=nord" alt="Manoj Kumar H S" /></p>
+<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-2702&theme=nord" alt="Manoj-2702" /></p>
+<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manoj-2702&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
 
 [![Manoj-2702's GitHub | Stats](https://stats.quine.sh/Manoj-2702/github?theme=light)](https://quine.sh)
 
-<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manoj-2702&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
 
 
 
@@ -98,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
-<a href="https://www.linkedin.com/in/manoj-kumar-h-s-4306b2235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-kumar-h-s-4306b2235/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manojkumarhs/"><img src="https://img.shields.io/badge/-Manoj-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manojkumarhs)](https://www.linkedin.com/in/manojkumarhs/"></a>
 </p>
 <a href = "https://twitter.com/ManojKumarHS9" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 
